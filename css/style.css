@@ -3336,6 +3336,10 @@ p {
   font-size: 18px;
 }
 
+.title-home{
+  font-size: 20px !important;
+}
+
 .features .icon,
 .key-feature .icon {
   height: 45px;
