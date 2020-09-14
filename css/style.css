@@ -1956,6 +1956,14 @@ button:not(:disabled) {
   color: #FFEC3F;
 }
 
+.blue{
+  color : #5EB1FF !important;
+}
+
+.text-fitur{
+  color : #676767;
+}
+
 .text-decor{
   text-decoration-color: yellow;
   -webkit-text-decoration-color: yellow; 
